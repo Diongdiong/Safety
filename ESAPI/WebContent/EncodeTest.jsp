@@ -11,6 +11,5 @@
 
 </head>
 <body>
-	${es:encodeForJavaScript(pageContext.request.ContextPath)}
 </body>
 </html>
